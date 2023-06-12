@@ -1,0 +1,10 @@
+* interface
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/interface.git   |
+| commit  | 6d8bd74  |
+| systems | interface |
+|---------+-------------------------------------------|
+
